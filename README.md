@@ -13,7 +13,7 @@ Instagram hacks: Track unfollowers, Increase your followers, Download Stories, e
 ### Usage:
 ```
 git clone https://github.com/thelinuxchoice/inshackle
-cd yezer
+cd yezerdg
 bash yezer.sh
 ```
 
