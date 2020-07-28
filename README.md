@@ -1,4 +1,4 @@
-# Inshackle v1.0
+# Ins IG v2.0 🖤
 ## Author: github.com/DG980321/yezer
 ## IG: instagram.com/yezer.w 
 
