@@ -1,5 +1,5 @@
 #!/bin/bash
-# Inshackle v2.0
+# Ins IGv2.0
 # coded by: @yezer.w
 # If you use any part from this code, give me the credits, please, read the License
 
@@ -21,8 +21,8 @@ ig_sig="4f8732eb9ba7d1c8e8897a75d6474d4eb3f5279137431b2aafb71fafe2abe178"
 
 banner() {
 printf " \n"
-printf " \e[1;31mM\"\"M\e[0m\e[1;31m                    \e[0m\e[1;93m'dP'                         \e[0m\n"
-printf " \e[1;31mM  M\e[0m\e[1;31m                     \e[0m\e[1;93m88  .d8888b.              \e[0m\n"
+printf " \e[1;31mM\"\"M\e[0m\e[1;31m                    \e[0m\e[1;93m'dP'\e[0m\n"
+printf " \e[1;31mM  M\e[0m\e[1;31m                     \e[0m\e[1;93m88  .d8888b.\e[0m\n"
 printf " \e[1;31mM  M\e[0m\e[1;31m 88d888b. .d8888b.   \e[0m\e[1;93m88  88\' \e[0m\n"
 printf " \e[1;37mM  M\e[0m\e[1;37m 88'  \`88 Y8ooooo.   \e[0m\e[1;37m88  88\' \`888 \e[0m\e[0m\n"
 printf " \e[1;31mM  M\e[0m\e[1;31m 88    88       88   \e[0m\e[1;93m88  88.  .88 \e[0m\n"
@@ -30,7 +30,7 @@ printf " \e[1;31mM  M\e[0m\e[1;31m dP    dP \`88888P\'  \e[0m\e[1;93m.dP. \`8888
 printf " \e[1;36m╚═════════════════════════════════════╝\e[0m                                                                    \n"
 printf "\n"
 printf "      \e[1;35m[\e[0m\e[1;77mv2.0\e[0m\e[1;35m]\e[0m\e[1;77m By Yezer
-         https://github.com/DG980321/yezerdg\e[0m\n"
+      https://github.com/DG980321/yezerdg\e[0m\n"
 }
 
 
