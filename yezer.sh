@@ -1,7 +1,6 @@
 #!/bin/bash
-# Inshackle v1.0
-# coded by: @linux_choice
-# github.com/thelinuxchoice/inshackle
+# Inshackle v2.0
+# coded by: @yezer.w
 # If you use any part from this code, give me the credits, please, read the License
 
 
@@ -27,10 +26,11 @@ printf " \e[1;31mM  M\e[0m\e[1;31m                     \e[0m\e[1;93m88  .d8888b.
 printf " \e[1;31mM  M\e[0m\e[1;31m 88d888b. .d8888b.   \e[0m\e[1;93m88  88\' \e[0m\n"
 printf " \e[1;37mM  M\e[0m\e[1;37m 88'  \`88 Y8ooooo.   \e[0m\e[1;37m88  88\' \`888 \e[0m\e[0m\n"
 printf " \e[1;31mM  M\e[0m\e[1;31m 88    88       88   \e[0m\e[1;93m88  88.  .88 \e[0m\n"
-printf " \e[1;31mM  M\e[0m\e[1;31m dP    dP \`88888P\'  \e[0m\e[1;93m.dP. \`88888P8 \e[0m\e[1;36m ╔═ Lily\e[0m\n"
-printf " \e[1;36m╚══════════════════════════════════════╝\e[0m                                                                    \n"
+printf " \e[1;31mM  M\e[0m\e[1;31m dP    dP \`88888P\'  \e[0m\e[1;93m.dP. \`88888P8 \e[0m\e[1;36m╔═ Lily\e[0m\n"
+printf " \e[1;36m╚═════════════════════════════════════╝\e[0m                                                                    \n"
 printf "\n"
-printf "      \e[1;35m[\e[0m\e[1;77mv2.0\e[0m\e[1;35m]\e[0m\e[1;77m By Yezer  -  https://github.com/DG980321/yezerdg\e[0m\n"
+printf "      \e[1;35m[\e[0m\e[1;77mv2.0\e[0m\e[1;35m]\e[0m\e[1;77m By Yezer
+            https://github.com/DG980321/yezerdg\e[0m\n"
 }
 
 
