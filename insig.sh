@@ -30,7 +30,7 @@ printf " \e[1;31mM  M\e[0m\e[1;31m dP    dP \`88888P\'  \e[0m\e[1;93m.dP. \`8888
 printf " \e[1;36m╚═════════════════════════════════════╝\e[0m                                                                    \n"
 printf "\n"
 printf "      \e[1;35m[\e[0m\e[1;77mv2.0\e[0m\e[1;35m]\e[0m\e[1;77m By Yezer
-      https://github.com/DG980321/yezerdg\e[0m\n"
+   https://github.com/DG980321/yezerdg\e[0m\n"
 }
 
 
