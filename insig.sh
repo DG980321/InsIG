@@ -448,8 +448,8 @@ fi
 while [[ true ]]; do
 
 
-for celeb in $(cat celeb_id); do
 for celeb in $(cat cele_id); do
+for celeb in $(cat celeb_id); do
 
 data='{"_uuid":"'$guid'", "_uid":"'$username_id'", "user_id":"'$celeb'", "_csrftoken":"'$var2'"}'
 hmac=$(echo -n "$data" | openssl dgst -sha256 -hmac "${ig_sig}" | cut -d " " -f2)
