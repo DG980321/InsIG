@@ -426,7 +426,6 @@ therock="232192182"
 kylie="12281817"
 jelopez="305701719"
 messi="427553890"
-
 dualipa="12331195"
 mileycyrus="325734299"
 shawnmendes="212742998"
