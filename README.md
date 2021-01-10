@@ -33,4 +33,4 @@ ___________
 •> Enter account username and password to increase followers.
 ```
 ## YouTube
-[![Youtube](https://i.ibb.co/1vwk8k9/0001-15361021338-20210110-062114-0000.png)](https://youtu.be/4Ot46zRKREI)
+[![Youtube](https://i.ibb.co/RNY4MzJ/0001-15361918376-20210110-070415-0000.png)](https://youtu.be/4Ot46zRKREI)
