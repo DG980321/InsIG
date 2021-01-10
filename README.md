@@ -1,9 +1,13 @@
 # Ins IG v2.0 🖤
-## Author: github.com/DG980321/yezer
-## IG: instagram.com/yezer.w 
+## Author: Christian Yezer
+## IG: instagram.com/yezer.x
 
-Instagram hacks: Track unfollowers, Increase your followers, Download Stories, etc
 
+ #### 《 To see the password, open "InsIGY.sh" 》
+![ins](https://i.ibb.co/3mVXnF1/Screenshot-20210110-051115-Termux.jpg)
+ #### 《To hide the password, open "InsIGN.sh" 》
+![ins](https://i.ibb.co/Wkqkj5m/Screenshot-20210110-051005-Termux.jpg)
+ 
 ### Features:
 #### Unfollow Tracker
 #### Increase Followers
@@ -12,11 +16,11 @@ Instagram hacks: Track unfollowers, Increase your followers, Download Stories, e
 
 ### Install:
 ```
-apt update a&& apt upgrade
+•> apt update a&& apt upgrade
 
-pkg install git && pkg install wget && pkg install curl && pkg install openssl-tool
+•> pkg install git && pkg install wget && pkg install curl && pkg install openssl-tool
 
-git clone https://github.com/DG980321/yezerdg
+•> git clone https://github.com/DG980321/yezerdg
 ```
 
 ### Using:
