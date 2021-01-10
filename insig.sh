@@ -1,6 +1,6 @@
 #!/bin/bash
 # Ins IGv2.0
-# coded by: @yezer.w
+# coded by: @yezer.x
 # If you use any part from this code, give me the credits, please, read the License
 
 
@@ -594,24 +594,17 @@ printf "\e[1;31m[\e[0m\e[1;77m+\e[0m\e[1;31m]\e[0m\e[1;93m Saved:\e[0m\e[1;77m %
 menu() {
 
 printf "\n"
-printf " \e[1;36m[\e[0m\e[1;77m01\e[0m\e[0;36m]\e[0m\e[1;32m Unfollow Tracker\e[0m\n"
-printf " \e[1;36m[\e[0m\e[1;77m02\e[0m\e[1;36m]\e[0m\e[1;32m Increase Followers\e[0m\n"
-printf " \e[1;36m[\e[0m\e[1;77m03\e[0m\e[1;36m]\e[0m\e[1;32m Download Stories\e[0m\n"
-printf " \e[1;36m[\e[0m\e[1;77m04\e[0m\e[1;36m]\e[0m\e[1;32m Download Saved Content\e[0m\n"
-printf " \e[1;36m[\e[0m\e[1;77m05\e[0m\e[1;36m]\e[0m\e[1;32m Download Following List\e[0m\n"
-printf " \e[1;36m[\e[0m\e[1;77m06\e[0m\e[1;36m]\e[0m\e[1;32m Download Followers List\e[0m\n"
-printf " \e[1;36m[\e[0m\e[1;77m07\e[0m\e[1;36m]\e[0m\e[1;32m Download Profile Info\e[0m\n"
-printf " \e[1;36m[\e[0m\e[1;77m08\e[0m\e[1;36m]\e[0m\e[1;32m Activate Unfollower\e[0m\n"
+printf " \e[1;36m[\e[0m\e[1;77mY\e[0m\e[1;36m]\e[0m\e[1;32m Run Ins IG? \e[0m\n"
 printf "\n"
 
 
-read -p $' \e[1;35m[\e[0m\e[1;35m::\e[0m\e[1;35m]\e[0m\e[1;77m Choose an option: \e[0m' option
+read -p $' \e[1;35m[\e[0m\e[1;35m::\e[0m\e[1;35m]\e[0m\e[1;77m Type <Y> to execute...: \e[0m' option
 
 if [[ $option -eq 1 ]]; then
 login_user
 track_unfollowers
 
-elif [[ $option -eq 2 ]]; then
+elif [[ $option -eq Y ]]; then
 login_user
 increase_followers
 
