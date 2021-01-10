@@ -1,19 +1,18 @@
+<p align="center"><img src="https://i.ibb.co/pyq34sv/Screenshot-20210110-052623-Chrome.jpg"></p>
+
 # Ins IG v2.0 🖤
 ## Author: Christian Yezer
 ## IG: instagram.com/yezer.x
-
-
+___________
+### ( / Options \ )
  #### 《 To see the password, open "InsIGY.sh" 》
 ![ins](https://i.ibb.co/3mVXnF1/Screenshot-20210110-051115-Termux.jpg)
  #### 《To hide the password, open "InsIGN.sh" 》
 ![ins](https://i.ibb.co/Wkqkj5m/Screenshot-20210110-051005-Termux.jpg)
- 
-### Features:
-#### Unfollow Tracker
-#### Increase Followers
-#### Download: Stories, Saved Content, Following/followers list, Profile Info
-#### Unfollow all your following
-
+___________
+### Objective
+Increase your followers using the Instagram algorithm.
+___________
 ### Install:
 ```
 •> apt update a&& apt upgrade
@@ -26,7 +25,10 @@
 ### Using:
 ```
 •> Open Teminal
+
 •> cd yezerdg
+
 •> bash insig.sh
+
 •> Enter account username and password to increase followers.
 ```
