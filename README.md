@@ -10,10 +10,19 @@ Instagram hacks: Track unfollowers, Increase your followers, Download Stories, e
 #### Download: Stories, Saved Content, Following/followers list, Profile Info
 #### Unfollow all your following
 
-### Usage:
+### Install:
 ```
-git clone https://github.com/thelinuxchoice/inshackle
-cd yezerdg
-bash insig.sh
+apt update a&& apt upgrade
+
+pkg install git && pkg install wget && pkg install curl && pkg install openssl-tool
+
+git clone https://github.com/DG980321/yezerdg
 ```
 
+### Using:
+```
+•> Open Teminal
+•> cd yezerdg
+•> bash insig.sh
+•> Enter account username and password to increase followers.
+```
