@@ -15,7 +15,7 @@ Increase your followers using the Instagram algorithm.
 ___________
 ### Install:
 ```
-•> apt update a&& apt upgrade
+•> apt update && apt upgrade
 
 •> pkg install git && pkg install wget && pkg install curl && pkg install openssl-tool
 
