@@ -28,7 +28,7 @@ printf " \e[1;31mM  M\e[0m\e[1;31m dP    dP \`88888P\'  \e[0m\e[1;93m.dP. \`8888
 printf " \e[1;36m╚═════════════════════════════════════╝\e[0m                                                                    \n"
 printf "\n"
 printf "      \e[1;35m[\e[0m\e[1;77mv1.0\e[0m\e[1;35m]\e[0m\e[1;77m By Yezer
-   https://github.com/DG980321//InsIG\e[0m\n"
+   https://github.com/DG980321/InsIG\e[0m\n"
 }
 
 
@@ -168,27 +168,14 @@ username_id=$(curl -L -s 'https://www.instagram.com/'$user'' > getid && grep -o 
 billieeilish="28527810"
 arianagrande="7719696"
 justinbieber="6860189"
-beyonce="247944034"
+charlieputh="7555881"
 cristiano="173560420"
 kimkardashian="18428658"
-kendall="6380930"
-therock="232192182"
-kylie="12281817"
-jelopez="305701719"
-messi="427553890"
-dualipa="12331195"
-celebrity="5457896418"
-mileycyrus="325734299"
-shawnmendes="212742998"
-katyperry="407964088"
-charlieputh="7555881"
-lelepons="177402262"
 camila_cabello="19596899"
-madonna="181306552"
-leonardodicaprio="1506607755"
-ladygaga="184692323"
+therock="232192182"
 taylorswift="11830955"
-instagram="25025320"
+leonardodicaprio="1506607755"
+messi="427553890"
 
 
 if [[ ! -e celeb_id ]]; then
