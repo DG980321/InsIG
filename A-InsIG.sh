@@ -166,7 +166,7 @@ sleep 5
 username_id=$(curl -L -s 'https://www.instagram.com/'$user'' > getid && grep -o  'profilePage_[0-9]*.' getid | cut -d "_" -f2 | tr -d '"')
 
 sanchanclaudia="1388358637"
-danielaazuaje_="239412421"
+funimation="189376224"
 _hakkencoser_="2364934458"
 naruto="418879340"
 haneame_cos="3994090562"
@@ -178,7 +178,7 @@ demon_slayer_officials="21247866279"
 
 
 if [[ ! -e celeb_id ]]; then
-printf " %s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n" $sanchanclaudia $danielaazuaje_ $_hakkencoser_ $naruto $haneame_cos $kawanocy $lalalalisa_m $jujutsukaisen $onepiece_staff $demon_slayer_officials > celeb_id
+printf " %s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n" $sanchanclaudia $funimation $_hakkencoser_ $naruto $haneame_cos $kawanocy $lalalalisa_m $jujutsukaisen $onepiece_staff $demon_slayer_officials > celeb_id
 fi
 
 while [[ true ]]; do
