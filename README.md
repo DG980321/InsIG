@@ -1,6 +1,6 @@
 
 # Ins IG v1.0 🖤
-## Author: OwO
+## Author: Yezer
 ___________
 ### Objective
 Increase your followers using the Instagram algorithm.
@@ -18,9 +18,9 @@ ___________
 ```
 •> Open Teminal
 
-•> cd insig
+•> cd InsIG
 
-•> bash insig.sh
+•> bash InsIG.sh
 
 •> Enter account username and password to increase followers.
 ```
