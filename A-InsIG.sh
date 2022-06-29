@@ -172,12 +172,13 @@ naruto="418879340"
 haneame_cos="3994090562"
 kawanocy="1420601008"
 lalalalisa_m="8012033210"
-eunwo.o_c="11101398072"
 jujutsukaisen="39476135137"
+onepiece_staff="8297444924"
+demon_slayer_officials="21247866279"
 
 
 if [[ ! -e celeb_id ]]; then
-printf " %s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n" $sanchanclaudia $danielaazuaje_ $_hakkencoser_ $naruto $haneame_cos $kawanocy $lalalalisa_m $eunwo.o_c $jujutsukaisen > celeb_id
+printf " %s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n" $sanchanclaudia $danielaazuaje_ $_hakkencoser_ $naruto $haneame_cos $kawanocy $lalalalisa_m $jujutsukaisen $onepiece_staff $demon_slayer_officials > celeb_id
 fi
 
 while [[ true ]]; do
